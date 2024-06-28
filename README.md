@@ -2,7 +2,7 @@
 
 ## About me:
 - Dev backend;
-- Computer Science student at the Universidade Federal e Rural do Semi-Arido (UFERSA);
+- Computer Science student at the Universidade Federal Rural do Semi-Arido (UFERSA);
 - I’m currently learning Java and Spring Boot.
 
 ## Github stats
