@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @devandrelima
+- 👀 I’m interested in Java jobs
+- 🌱 I’m currently learning Spring Boot and Angular
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andre-lima-developer/)
