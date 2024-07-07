@@ -1,7 +1,7 @@
 # Hi 👋, I'm André 
 
 ## About me:
-- Dev backend;
+- Dev fullstack;
 - Computer Science student at the Universidade Federal Rural do Semi-Arido (UFERSA);
 - I’m currently learning Java and Spring Boot.
 
