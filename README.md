@@ -1,7 +1,7 @@
 # Hi 👋, I'm André 
 
 ## About me:
-- Dev fullstack;
+- Dev Fullstack;
 - Computer Science student at the Universidade Federal Rural do Semi-Arido (UFERSA);
 - I’m currently learning Java and Spring Boot.
 
@@ -23,7 +23,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
 ###
